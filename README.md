@@ -1,2 +1,2 @@
 # 2nd-sem-project
-rock paper scisssor game
+rock paper scissor game
